@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TemplateMethodPattern\TemplateMethodPattern.cpp">
+    <ClCompile Include="BuilderPattern\BuilderPattern.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="TemplateMethodPattern\TemplateMethodPattern.h">
+    <ClInclude Include="BuilderPattern\BuilderPattern.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
